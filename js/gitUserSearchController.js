@@ -1,3 +1,0 @@
-githubUserSearch.controller('GitUserSearchController', [function() {
-
-}]);
